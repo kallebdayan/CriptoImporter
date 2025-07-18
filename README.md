@@ -1,6 +1,6 @@
 # CriptoImporter - Sistema de Coleta de Dados de Criptomoedas
 
-Sistema orientado a objetos para coleta automática de dados de candlesticks de criptomoedas das APIs Bybit, com armazenamento em banco de dados MySQL.
+Sistema orientado a objetos para coleta automática de dados de candlesticks de criptomoedas da API Bybit, com armazenamento em banco de dados MySQL.
 
 ## Características
 
