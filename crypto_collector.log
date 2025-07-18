@@ -1,0 +1,647 @@
+2025-07-18 18:12:54,646 - DataCollector - INFO - DataCollector inicializado com API: bybit
+2025-07-18 18:13:36,372 - DataCollector - INFO - DataCollector inicializado com API: bybit
+2025-07-18 18:13:41,415 - DataCollector - INFO - Iniciando coleta para 24 símbolos
+2025-07-18 18:13:41,447 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 17:32:00 até 2025-07-18 18:13:41.447000
+2025-07-18 18:13:42,258 - DataCollector - INFO - BTCUSDT: Coletados 42 novos registros. Total: 1049
+2025-07-18 18:13:42,371 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 17:32:00 até 2025-07-18 18:13:42.371000
+2025-07-18 18:13:42,834 - DataCollector - INFO - ETHUSDT: Coletados 42 novos registros. Total: 1049
+2025-07-18 18:13:42,936 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 17:32:00 até 2025-07-18 18:13:42.936000
+2025-07-18 18:13:43,361 - DataCollector - INFO - ADAUSDT: Coletados 42 novos registros. Total: 1049
+2025-07-18 18:13:43,473 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:43.473000
+2025-07-18 18:13:43,890 - DataCollector - INFO - BNBUSDT: Coletados 41 novos registros. Total: 1049
+2025-07-18 18:13:44,008 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:44.008000
+2025-07-18 18:13:44,432 - DataCollector - INFO - SOLUSDT: Coletados 41 novos registros. Total: 1049
+2025-07-18 18:13:44,546 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:44.546000
+2025-07-18 18:13:45,023 - DataCollector - INFO - XRPUSDT: Coletados 41 novos registros. Total: 1049
+2025-07-18 18:13:45,137 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:45.137000
+2025-07-18 18:13:45,551 - DataCollector - INFO - DOGEUSDT: Coletados 41 novos registros. Total: 1048
+2025-07-18 18:13:45,664 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:45.664000
+2025-07-18 18:13:46,087 - DataCollector - INFO - TONUSDT: Coletados 41 novos registros. Total: 1048
+2025-07-18 18:13:46,199 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:46.199000
+2025-07-18 18:13:46,622 - DataCollector - INFO - TRXUSDT: Coletados 41 novos registros. Total: 1048
+2025-07-18 18:13:46,724 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:46.724000
+2025-07-18 18:13:47,134 - DataCollector - INFO - AVAXUSDT: Coletados 41 novos registros. Total: 1048
+2025-07-18 18:13:47,247 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:47.247000
+2025-07-18 18:13:47,660 - DataCollector - INFO - SUSHIUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:47,773 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:47.773000
+2025-07-18 18:13:48,189 - DataCollector - INFO - HMSTRUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:48,301 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:48.301000
+2025-07-18 18:13:48,717 - DataCollector - INFO - DEEPUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:48,818 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:48.818000
+2025-07-18 18:13:49,229 - DataCollector - INFO - SANDUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:49,341 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:49.341000
+2025-07-18 18:13:49,756 - DataCollector - INFO - ORDIUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:49,872 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:49.872000
+2025-07-18 18:13:50,270 - DataCollector - INFO - SUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:50,384 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:50.384000
+2025-07-18 18:13:50,799 - DataCollector - INFO - UNIUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:50,911 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:50.911000
+2025-07-18 18:13:51,310 - DataCollector - INFO - AI16ZUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:51,422 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:51.422000
+2025-07-18 18:13:51,837 - DataCollector - INFO - OPUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:51,949 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:51.949000
+2025-07-18 18:13:52,334 - DataCollector - INFO - GALAUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:52,447 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:52.447000
+2025-07-18 18:13:52,846 - DataCollector - INFO - CRVUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:52,957 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:52.957000
+2025-07-18 18:13:53,374 - DataCollector - INFO - POPCATUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:53,486 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 17:33:00 até 2025-07-18 18:13:53.486000
+2025-07-18 18:13:53,903 - DataCollector - INFO - SPXUSDT: Coletados 41 novos registros. Total: 1047
+2025-07-18 18:13:54,009 - DataCollector - INFO - NEIROETHUSDT: Coletando dados de 2025-06-18 18:13:54.009000 até 2025-07-18 18:13:54.009000
+2025-07-18 18:13:54,368 - DataCollector - ERROR - Erro ao coletar dados para NEIROETHUSDT: Erro da API Bybit: Not supported symbols
+2025-07-18 18:13:54,481 - DataCollector - INFO - Coleta finalizada: 23/24 símbolos processados com sucesso
+2025-07-18 18:13:54,481 - DataCollector - INFO - Total de novos registros: 946
+2025-07-18 18:17:02,554 - DataCollector - INFO - Iniciando coleta para 24 símbolos
+2025-07-18 18:17:02,554 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:02.554000
+2025-07-18 18:17:03,001 - DataCollector - INFO - BTCUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:03,115 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:03.115000
+2025-07-18 18:17:03,515 - DataCollector - INFO - ETHUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:03,627 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:03.627000
+2025-07-18 18:17:03,980 - DataCollector - INFO - ADAUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:04,093 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:04.093000
+2025-07-18 18:17:04,444 - DataCollector - INFO - BNBUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:04,558 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:04.558000
+2025-07-18 18:17:04,972 - DataCollector - INFO - SOLUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:05,085 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:05.085000
+2025-07-18 18:17:05,576 - DataCollector - INFO - XRPUSDT: Coletados 4 novos registros. Total: 1053
+2025-07-18 18:17:05,679 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:05.679000
+2025-07-18 18:17:06,047 - DataCollector - INFO - DOGEUSDT: Coletados 4 novos registros. Total: 1052
+2025-07-18 18:17:06,148 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:06.148000
+2025-07-18 18:17:06,542 - DataCollector - INFO - TONUSDT: Coletados 4 novos registros. Total: 1052
+2025-07-18 18:17:06,645 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:06.645000
+2025-07-18 18:17:07,021 - DataCollector - INFO - TRXUSDT: Coletados 4 novos registros. Total: 1052
+2025-07-18 18:17:07,123 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:07.123000
+2025-07-18 18:17:07,503 - DataCollector - INFO - AVAXUSDT: Coletados 4 novos registros. Total: 1052
+2025-07-18 18:17:07,616 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:07.616000
+2025-07-18 18:17:07,967 - DataCollector - INFO - SUSHIUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:08,080 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:08.080000
+2025-07-18 18:17:08,448 - DataCollector - INFO - HMSTRUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:08,550 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:08.550000
+2025-07-18 18:17:08,912 - DataCollector - INFO - DEEPUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:09,016 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:09.016000
+2025-07-18 18:17:09,457 - DataCollector - INFO - SANDUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:09,570 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:09.570000
+2025-07-18 18:17:09,940 - DataCollector - INFO - ORDIUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:10,054 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:10.054000
+2025-07-18 18:17:10,406 - DataCollector - INFO - SUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:10,521 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:10.521000
+2025-07-18 18:17:10,886 - DataCollector - INFO - UNIUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:10,997 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:10.997000
+2025-07-18 18:17:11,494 - DataCollector - INFO - AI16ZUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:11,610 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:11.610000
+2025-07-18 18:17:11,975 - DataCollector - INFO - OPUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:12,087 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:12.087000
+2025-07-18 18:17:12,440 - DataCollector - INFO - GALAUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:12,552 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:12.552000
+2025-07-18 18:17:12,905 - DataCollector - INFO - CRVUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:13,017 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:13.017000
+2025-07-18 18:17:13,402 - DataCollector - INFO - POPCATUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:13,514 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:14:00 até 2025-07-18 18:17:13.514000
+2025-07-18 18:17:13,883 - DataCollector - INFO - SPXUSDT: Coletados 4 novos registros. Total: 1051
+2025-07-18 18:17:13,988 - DataCollector - INFO - NEIROETHUSDT: Coletando dados de 2025-06-18 18:17:13.988000 até 2025-07-18 18:17:13.988000
+2025-07-18 18:17:14,348 - DataCollector - ERROR - Erro ao coletar dados para NEIROETHUSDT: Erro da API Bybit: Not supported symbols
+2025-07-18 18:17:14,455 - DataCollector - INFO - Coleta finalizada: 23/24 símbolos processados com sucesso
+2025-07-18 18:17:14,455 - DataCollector - INFO - Total de novos registros: 92
+2025-07-18 18:17:52,353 - DataCollector - INFO - Iniciando coleta para 24 símbolos
+2025-07-18 18:17:52,353 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-06-18 18:17:52.353000 até 2025-07-18 18:17:52.353000
+2025-07-18 18:17:55,749 - DataCollector - INFO - BTCUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:17:55,854 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-06-18 18:17:55.854000 até 2025-07-18 18:17:55.854000
+2025-07-18 18:17:58,962 - DataCollector - INFO - ETHUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:17:59,064 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-06-18 18:17:59.064000 até 2025-07-18 18:17:59.064000
+2025-07-18 18:18:02,198 - DataCollector - INFO - ADAUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:02,310 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-06-18 18:18:02.310000 até 2025-07-18 18:18:02.310000
+2025-07-18 18:18:05,246 - DataCollector - INFO - BNBUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:05,350 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-06-18 18:18:05.350000 até 2025-07-18 18:18:05.350000
+2025-07-18 18:18:08,419 - DataCollector - INFO - SOLUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:08,532 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-06-18 18:18:08.532000 até 2025-07-18 18:18:08.532000
+2025-07-18 18:18:11,915 - DataCollector - INFO - XRPUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:12,031 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-06-18 18:18:12.031000 até 2025-07-18 18:18:12.031000
+2025-07-18 18:18:16,839 - DataCollector - INFO - DOGEUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:16,950 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-06-18 18:18:16.950000 até 2025-07-18 18:18:16.950000
+2025-07-18 18:18:19,813 - DataCollector - INFO - TONUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:19,924 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-06-18 18:18:19.924000 até 2025-07-18 18:18:19.924000
+2025-07-18 18:18:22,574 - DataCollector - INFO - TRXUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:22,687 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-06-18 18:18:22.687000 até 2025-07-18 18:18:22.687000
+2025-07-18 18:18:25,384 - DataCollector - INFO - AVAXUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:25,527 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-06-18 18:18:25.512000 até 2025-07-18 18:18:25.527000
+2025-07-18 18:18:28,163 - DataCollector - INFO - SUSHIUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:28,274 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-06-18 18:18:28.265000 até 2025-07-18 18:18:28.274000
+2025-07-18 18:18:31,009 - DataCollector - INFO - HMSTRUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:31,114 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-06-18 18:18:31.114000 até 2025-07-18 18:18:31.114000
+2025-07-18 18:18:33,995 - DataCollector - INFO - DEEPUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:34,098 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-06-18 18:18:34.098000 até 2025-07-18 18:18:34.098000
+2025-07-18 18:18:36,869 - DataCollector - INFO - SANDUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:36,987 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-06-18 18:18:36.987000 até 2025-07-18 18:18:36.987000
+2025-07-18 18:18:39,859 - DataCollector - INFO - ORDIUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:39,961 - DataCollector - INFO - SUSDT: Coletando dados de 2025-06-18 18:18:39.961000 até 2025-07-18 18:18:39.961000
+2025-07-18 18:18:42,626 - DataCollector - INFO - SUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:42,738 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-06-18 18:18:42.738000 até 2025-07-18 18:18:42.738000
+2025-07-18 18:18:45,603 - DataCollector - INFO - UNIUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:45,709 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-06-18 18:18:45.709000 até 2025-07-18 18:18:45.709000
+2025-07-18 18:18:48,721 - DataCollector - INFO - AI16ZUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:48,826 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-06-18 18:18:48.826000 até 2025-07-18 18:18:48.826000
+2025-07-18 18:18:51,996 - DataCollector - INFO - OPUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:52,101 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-06-18 18:18:52.100000 até 2025-07-18 18:18:52.101000
+2025-07-18 18:18:55,063 - DataCollector - INFO - GALAUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:55,168 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-06-18 18:18:55.168000 até 2025-07-18 18:18:55.168000
+2025-07-18 18:18:58,955 - DataCollector - INFO - CRVUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:18:59,060 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-06-18 18:18:59.060000 até 2025-07-18 18:18:59.060000
+2025-07-18 18:19:02,203 - DataCollector - INFO - POPCATUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:19:02,308 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-06-18 18:19:02.308000 até 2025-07-18 18:19:02.308000
+2025-07-18 18:19:05,515 - DataCollector - INFO - SPXUSDT: Coletados 1000 novos registros. Total: 1000
+2025-07-18 18:19:05,617 - DataCollector - INFO - NEIROETHUSDT: Coletando dados de 2025-06-18 18:19:05.617000 até 2025-07-18 18:19:05.617000
+2025-07-18 18:19:05,999 - DataCollector - ERROR - Erro ao coletar dados para NEIROETHUSDT: Erro da API Bybit: Not supported symbols
+2025-07-18 18:19:06,103 - DataCollector - INFO - Coleta finalizada: 23/24 símbolos processados com sucesso
+2025-07-18 18:19:06,104 - DataCollector - INFO - Total de novos registros: 23000
+2025-07-18 18:20:54,041 - DataCollector - INFO - DataCollector inicializado com API: bybit
+2025-07-18 18:21:39,391 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:21:39,433 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:18:00 até 2025-07-18 18:21:39.431000
+2025-07-18 18:23:44,301 - DataCollector - INFO - BTCUSDT: Coletados 4 novos registros. Total: 1004
+2025-07-18 18:23:44,402 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:18:00 até 2025-07-18 18:23:44.402000
+2025-07-18 18:23:44,765 - DataCollector - INFO - ETHUSDT: Coletados 6 novos registros. Total: 1006
+2025-07-18 18:23:44,877 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:18:00 até 2025-07-18 18:23:44.877000
+2025-07-18 18:23:45,244 - DataCollector - INFO - ADAUSDT: Coletados 6 novos registros. Total: 1006
+2025-07-18 18:23:45,356 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:45.356000
+2025-07-18 18:23:45,708 - DataCollector - INFO - BNBUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:45,821 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:45.821000
+2025-07-18 18:23:46,845 - DataCollector - INFO - SOLUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:46,946 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:46.946000
+2025-07-18 18:23:47,965 - DataCollector - INFO - XRPUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:48,068 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:48.068000
+2025-07-18 18:23:48,430 - DataCollector - INFO - DOGEUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:48,541 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:48.541000
+2025-07-18 18:23:48,894 - DataCollector - INFO - TONUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:49,010 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:49.010000
+2025-07-18 18:23:49,377 - DataCollector - INFO - TRXUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:49,489 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:49.489000
+2025-07-18 18:23:49,859 - DataCollector - INFO - AVAXUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:49,971 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:49.971000
+2025-07-18 18:23:50,339 - DataCollector - INFO - SUSHIUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:50,440 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:50.440000
+2025-07-18 18:23:50,803 - DataCollector - INFO - HMSTRUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:50,919 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:50.919000
+2025-07-18 18:23:51,284 - DataCollector - INFO - DEEPUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:51,396 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:51.396000
+2025-07-18 18:23:51,765 - DataCollector - INFO - SANDUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:51,877 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:51.877000
+2025-07-18 18:23:52,247 - DataCollector - INFO - ORDIUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:52,352 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:52.352000
+2025-07-18 18:23:52,711 - DataCollector - INFO - SUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:52,825 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:52.825000
+2025-07-18 18:23:53,197 - DataCollector - INFO - UNIUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:53,304 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:53.304000
+2025-07-18 18:23:53,657 - DataCollector - INFO - AI16ZUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:53,772 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:53.772000
+2025-07-18 18:23:54,122 - DataCollector - INFO - OPUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:54,238 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:54.238000
+2025-07-18 18:23:54,619 - DataCollector - INFO - GALAUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:54,731 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:54.731000
+2025-07-18 18:23:55,084 - DataCollector - INFO - CRVUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:55,195 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:19:00 até 2025-07-18 18:23:55.195000
+2025-07-18 18:23:55,563 - DataCollector - INFO - POPCATUSDT: Coletados 5 novos registros. Total: 1005
+2025-07-18 18:23:55,665 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:20:00 até 2025-07-18 18:23:55.665000
+2025-07-18 18:23:56,029 - DataCollector - INFO - SPXUSDT: Coletados 4 novos registros. Total: 1004
+2025-07-18 18:23:56,137 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:23:56,137 - DataCollector - INFO - Total de novos registros: 115
+2025-07-18 18:29:35,168 - DataCollector - INFO - Iniciando coleta contínua de dados
+2025-07-18 18:29:46,427 - DataCollector - WARNING - Sem conectividade com a internet. Aguardando...
+2025-07-18 18:29:46,427 - DataCollector - ERROR - Erro crítico na coleta contínua: 'NetworkChecker' object has no attribute 'wait_for_internet'
+2025-07-18 18:30:47,753 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:30:47,770 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:22:00 até 2025-07-18 18:30:47.770000
+2025-07-18 18:30:49,540 - DataCollector - INFO - BTCUSDT: Coletados 9 novos registros. Total: 1013
+2025-07-18 18:30:49,652 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:49.652000
+2025-07-18 18:30:50,020 - DataCollector - INFO - ETHUSDT: Coletados 7 novos registros. Total: 1013
+2025-07-18 18:30:50,137 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:50.137000
+2025-07-18 18:30:50,595 - DataCollector - INFO - ADAUSDT: Coletados 7 novos registros. Total: 1013
+2025-07-18 18:30:50,701 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:50.701000
+2025-07-18 18:30:51,076 - DataCollector - INFO - BNBUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:51,189 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:51.189000
+2025-07-18 18:30:51,572 - DataCollector - INFO - SOLUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:51,684 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:51.684000
+2025-07-18 18:30:52,070 - DataCollector - INFO - XRPUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:52,184 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:52.184000
+2025-07-18 18:30:52,567 - DataCollector - INFO - DOGEUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:52,680 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:52.680000
+2025-07-18 18:30:53,062 - DataCollector - INFO - TONUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:53,174 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:53.174000
+2025-07-18 18:30:53,558 - DataCollector - INFO - TRXUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:53,668 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:53.668000
+2025-07-18 18:30:54,054 - DataCollector - INFO - AVAXUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:54,166 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:54.166000
+2025-07-18 18:30:54,532 - DataCollector - INFO - SUSHIUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:54,647 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:54.647000
+2025-07-18 18:30:55,029 - DataCollector - INFO - HMSTRUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:55,141 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:55.141000
+2025-07-18 18:30:55,555 - DataCollector - INFO - DEEPUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:55,666 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:55.666000
+2025-07-18 18:30:56,050 - DataCollector - INFO - SANDUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:56,162 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:56.162000
+2025-07-18 18:30:56,546 - DataCollector - INFO - ORDIUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:56,657 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:56.657000
+2025-07-18 18:30:57,055 - DataCollector - INFO - SUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:57,157 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:57.157000
+2025-07-18 18:30:57,539 - DataCollector - INFO - UNIUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:57,649 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:57.649000
+2025-07-18 18:30:58,038 - DataCollector - INFO - AI16ZUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:58,147 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:58.147000
+2025-07-18 18:30:58,528 - DataCollector - INFO - OPUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:58,640 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:58.640000
+2025-07-18 18:30:59,040 - DataCollector - INFO - GALAUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:59,164 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:59.164000
+2025-07-18 18:30:59,533 - DataCollector - INFO - CRVUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:30:59,645 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:30:59.645000
+2025-07-18 18:31:00,030 - DataCollector - INFO - POPCATUSDT: Coletados 7 novos registros. Total: 1012
+2025-07-18 18:31:00,141 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:24:00 até 2025-07-18 18:31:00.141000
+2025-07-18 18:31:00,509 - DataCollector - INFO - SPXUSDT: Coletados 8 novos registros. Total: 1012
+2025-07-18 18:31:00,623 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:31:00,623 - DataCollector - INFO - Total de novos registros: 164
+2025-07-18 18:31:00,623 - DataCollector - INFO - Próxima coleta em 45.8 segundos
+2025-07-18 18:31:47,868 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:31:47,868 - DataCollector - INFO - BTCUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:47,982 - DataCollector - INFO - ETHUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,084 - DataCollector - INFO - ADAUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,189 - DataCollector - INFO - BNBUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,295 - DataCollector - INFO - SOLUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,399 - DataCollector - INFO - XRPUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,502 - DataCollector - INFO - DOGEUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,607 - DataCollector - INFO - TONUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,711 - DataCollector - INFO - TRXUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,816 - DataCollector - INFO - AVAXUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:48,920 - DataCollector - INFO - SUSHIUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,024 - DataCollector - INFO - HMSTRUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,129 - DataCollector - INFO - DEEPUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,235 - DataCollector - INFO - SANDUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,341 - DataCollector - INFO - ORDIUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,445 - DataCollector - INFO - SUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,547 - DataCollector - INFO - UNIUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,653 - DataCollector - INFO - AI16ZUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,757 - DataCollector - INFO - OPUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,861 - DataCollector - INFO - GALAUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:49,965 - DataCollector - INFO - CRVUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:50,071 - DataCollector - INFO - POPCATUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:50,174 - DataCollector - INFO - SPXUSDT: Dados já atualizados recentemente
+2025-07-18 18:31:50,278 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:31:50,278 - DataCollector - INFO - Total de novos registros: 0
+2025-07-18 18:31:50,278 - DataCollector - INFO - Próxima coleta em 56.2 segundos
+2025-07-18 18:32:47,764 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:32:47,771 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:47.771000
+2025-07-18 18:32:48,132 - DataCollector - INFO - BTCUSDT: Coletados 2 novos registros. Total: 1015
+2025-07-18 18:32:48,244 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:48.244000
+2025-07-18 18:32:48,627 - DataCollector - INFO - ETHUSDT: Coletados 2 novos registros. Total: 1015
+2025-07-18 18:32:48,739 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:48.739000
+2025-07-18 18:32:49,107 - DataCollector - INFO - ADAUSDT: Coletados 2 novos registros. Total: 1015
+2025-07-18 18:32:49,225 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:49.225000
+2025-07-18 18:32:49,592 - DataCollector - INFO - BNBUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:49,699 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:49.699000
+2025-07-18 18:32:50,066 - DataCollector - INFO - SOLUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:50,178 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:50.178000
+2025-07-18 18:32:50,556 - DataCollector - INFO - XRPUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:50,671 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:50.670000
+2025-07-18 18:32:51,042 - DataCollector - INFO - DOGEUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:51,154 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:51.154000
+2025-07-18 18:32:51,513 - DataCollector - INFO - TONUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:51,626 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:51.626000
+2025-07-18 18:32:52,004 - DataCollector - INFO - TRXUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:52,114 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:52.114000
+2025-07-18 18:32:52,476 - DataCollector - INFO - AVAXUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:52,587 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:52.587000
+2025-07-18 18:32:52,945 - DataCollector - INFO - SUSHIUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:53,057 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:53.057000
+2025-07-18 18:32:53,418 - DataCollector - INFO - HMSTRUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:53,528 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:53.528000
+2025-07-18 18:32:53,887 - DataCollector - INFO - DEEPUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:53,997 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:53.997000
+2025-07-18 18:32:54,356 - DataCollector - INFO - SANDUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:54,469 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:54.469000
+2025-07-18 18:32:54,830 - DataCollector - INFO - ORDIUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:54,941 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:54.941000
+2025-07-18 18:32:55,332 - DataCollector - INFO - SUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:55,445 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:55.445000
+2025-07-18 18:32:55,824 - DataCollector - INFO - UNIUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:55,940 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:55.940000
+2025-07-18 18:32:56,312 - DataCollector - INFO - AI16ZUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:56,418 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:56.418000
+2025-07-18 18:32:56,769 - DataCollector - INFO - OPUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:56,885 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:56.885000
+2025-07-18 18:32:57,262 - DataCollector - INFO - GALAUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:57,368 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:57.368000
+2025-07-18 18:32:57,740 - DataCollector - INFO - CRVUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:57,843 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:31:00 até 2025-07-18 18:32:57.843000
+2025-07-18 18:32:58,205 - DataCollector - INFO - POPCATUSDT: Coletados 2 novos registros. Total: 1014
+2025-07-18 18:32:58,316 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:32:00 até 2025-07-18 18:32:58.316000
+2025-07-18 18:32:58,669 - DataCollector - INFO - SPXUSDT: Coletados 1 novos registros. Total: 1013
+2025-07-18 18:32:58,781 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:32:58,781 - DataCollector - INFO - Total de novos registros: 45
+2025-07-18 18:32:58,781 - DataCollector - INFO - Próxima coleta em 47.7 segundos
+2025-07-18 18:33:47,727 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:33:47,727 - DataCollector - INFO - BTCUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:47,835 - DataCollector - INFO - ETHUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:47,938 - DataCollector - INFO - ADAUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,044 - DataCollector - INFO - BNBUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,148 - DataCollector - INFO - SOLUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,253 - DataCollector - INFO - XRPUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,357 - DataCollector - INFO - DOGEUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,462 - DataCollector - INFO - TONUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,567 - DataCollector - INFO - TRXUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,672 - DataCollector - INFO - AVAXUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,775 - DataCollector - INFO - SUSHIUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,879 - DataCollector - INFO - HMSTRUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:48,985 - DataCollector - INFO - DEEPUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,089 - DataCollector - INFO - SANDUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,193 - DataCollector - INFO - ORDIUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,297 - DataCollector - INFO - SUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,402 - DataCollector - INFO - UNIUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,508 - DataCollector - INFO - AI16ZUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,615 - DataCollector - INFO - OPUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,716 - DataCollector - INFO - GALAUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,822 - DataCollector - INFO - CRVUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:49,926 - DataCollector - INFO - POPCATUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:50,029 - DataCollector - INFO - SPXUSDT: Dados já atualizados recentemente
+2025-07-18 18:33:50,132 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:33:50,132 - DataCollector - INFO - Total de novos registros: 0
+2025-07-18 18:33:50,132 - DataCollector - INFO - Próxima coleta em 56.3 segundos
+2025-07-18 18:34:47,943 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:34:47,955 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:47.955000
+2025-07-18 18:34:48,325 - DataCollector - INFO - BTCUSDT: Coletados 2 novos registros. Total: 1017
+2025-07-18 18:34:48,435 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:48.435000
+2025-07-18 18:34:48,808 - DataCollector - INFO - ETHUSDT: Coletados 2 novos registros. Total: 1017
+2025-07-18 18:34:48,912 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:48.912000
+2025-07-18 18:34:49,287 - DataCollector - INFO - ADAUSDT: Coletados 2 novos registros. Total: 1017
+2025-07-18 18:34:49,396 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:49.396000
+2025-07-18 18:34:49,775 - DataCollector - INFO - BNBUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:49,892 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:49.892000
+2025-07-18 18:34:50,250 - DataCollector - INFO - SOLUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:50,357 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:50.357000
+2025-07-18 18:34:50,733 - DataCollector - INFO - XRPUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:50,844 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:50.844000
+2025-07-18 18:34:51,209 - DataCollector - INFO - DOGEUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:51,319 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:51.319000
+2025-07-18 18:34:51,686 - DataCollector - INFO - TONUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:51,788 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:51.788000
+2025-07-18 18:34:52,162 - DataCollector - INFO - TRXUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:52,267 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:52.267000
+2025-07-18 18:34:52,642 - DataCollector - INFO - AVAXUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:52,783 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:52.783000
+2025-07-18 18:34:53,143 - DataCollector - INFO - SUSHIUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:53,261 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:53.261000
+2025-07-18 18:34:53,659 - DataCollector - INFO - HMSTRUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:53,762 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:53.762000
+2025-07-18 18:34:54,133 - DataCollector - INFO - DEEPUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:54,247 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:54.247000
+2025-07-18 18:34:54,607 - DataCollector - INFO - SANDUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:54,717 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:54.717000
+2025-07-18 18:34:55,083 - DataCollector - INFO - ORDIUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:55,197 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:55.197000
+2025-07-18 18:34:55,570 - DataCollector - INFO - SUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:55,678 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:55.678000
+2025-07-18 18:34:57,634 - DataCollector - INFO - UNIUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:34:57,746 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:34:57.746000
+2025-07-18 18:35:15,318 - DataCollector - INFO - AI16ZUSDT: Coletados 2 novos registros. Total: 1016
+2025-07-18 18:35:15,419 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:35:15.419000
+2025-07-18 18:35:15,797 - DataCollector - INFO - OPUSDT: Coletados 3 novos registros. Total: 1017
+2025-07-18 18:35:15,910 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:35:15.910000
+2025-07-18 18:35:16,287 - DataCollector - INFO - GALAUSDT: Coletados 3 novos registros. Total: 1017
+2025-07-18 18:35:16,397 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:35:16.397000
+2025-07-18 18:35:16,802 - DataCollector - INFO - CRVUSDT: Coletados 3 novos registros. Total: 1017
+2025-07-18 18:35:16,903 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:35:16.903000
+2025-07-18 18:35:17,300 - DataCollector - INFO - POPCATUSDT: Coletados 3 novos registros. Total: 1017
+2025-07-18 18:35:17,405 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:33:00 até 2025-07-18 18:35:17.405000
+2025-07-18 18:35:17,851 - DataCollector - INFO - SPXUSDT: Coletados 3 novos registros. Total: 1016
+2025-07-18 18:35:17,952 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:35:17,952 - DataCollector - INFO - Total de novos registros: 51
+2025-07-18 18:35:17,952 - DataCollector - INFO - Próxima coleta em 28.5 segundos
+2025-07-18 18:35:48,012 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:35:48,019 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:35:48.019000
+2025-07-18 18:35:48,390 - DataCollector - INFO - BTCUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:35:48,501 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:35:48.501000
+2025-07-18 18:35:48,863 - DataCollector - INFO - ETHUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:35:48,967 - DataCollector - INFO - ADAUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:49,079 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:35:49.079000
+2025-07-18 18:35:49,437 - DataCollector - INFO - BNBUSDT: Coletados 1 novos registros. Total: 1017
+2025-07-18 18:35:49,545 - DataCollector - INFO - SOLUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:49,648 - DataCollector - INFO - XRPUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:49,754 - DataCollector - INFO - DOGEUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:49,856 - DataCollector - INFO - TONUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:49,962 - DataCollector - INFO - TRXUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,066 - DataCollector - INFO - AVAXUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,167 - DataCollector - INFO - SUSHIUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,273 - DataCollector - INFO - HMSTRUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,377 - DataCollector - INFO - DEEPUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,481 - DataCollector - INFO - SANDUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,588 - DataCollector - INFO - ORDIUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,690 - DataCollector - INFO - SUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,794 - DataCollector - INFO - UNIUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:50,899 - DataCollector - INFO - AI16ZUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,003 - DataCollector - INFO - OPUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,107 - DataCollector - INFO - GALAUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,211 - DataCollector - INFO - CRVUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,315 - DataCollector - INFO - POPCATUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,419 - DataCollector - INFO - SPXUSDT: Dados já atualizados recentemente
+2025-07-18 18:35:51,523 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:35:51,523 - DataCollector - INFO - Total de novos registros: 3
+2025-07-18 18:35:51,523 - DataCollector - INFO - Próxima coleta em 54.9 segundos
+2025-07-18 18:36:48,250 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:36:48,260 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:48.260000
+2025-07-18 18:36:48,637 - DataCollector - INFO - BTCUSDT: Coletados 1 novos registros. Total: 1019
+2025-07-18 18:36:48,748 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:48.748000
+2025-07-18 18:36:49,117 - DataCollector - INFO - ETHUSDT: Coletados 1 novos registros. Total: 1019
+2025-07-18 18:36:49,231 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:49.231000
+2025-07-18 18:36:49,602 - DataCollector - INFO - ADAUSDT: Coletados 2 novos registros. Total: 1019
+2025-07-18 18:36:49,709 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:49.709000
+2025-07-18 18:36:50,069 - DataCollector - INFO - BNBUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:36:50,184 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:50.184000
+2025-07-18 18:36:50,552 - DataCollector - INFO - SOLUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:50,665 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:50.665000
+2025-07-18 18:36:51,029 - DataCollector - INFO - XRPUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:51,142 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:51.142000
+2025-07-18 18:36:51,503 - DataCollector - INFO - DOGEUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:51,612 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:51.612000
+2025-07-18 18:36:51,994 - DataCollector - INFO - TONUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:52,108 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:52.108000
+2025-07-18 18:36:52,479 - DataCollector - INFO - TRXUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:52,593 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:52.592000
+2025-07-18 18:36:52,978 - DataCollector - INFO - AVAXUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:53,094 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:53.094000
+2025-07-18 18:36:53,466 - DataCollector - INFO - SUSHIUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:53,582 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:53.582000
+2025-07-18 18:36:53,953 - DataCollector - INFO - HMSTRUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:54,067 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:54.067000
+2025-07-18 18:36:54,431 - DataCollector - INFO - DEEPUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:54,543 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:54.543000
+2025-07-18 18:36:54,908 - DataCollector - INFO - SANDUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:55,021 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:55.021000
+2025-07-18 18:36:55,384 - DataCollector - INFO - ORDIUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:55,494 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:55.494000
+2025-07-18 18:36:55,868 - DataCollector - INFO - SUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:55,981 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:55.981000
+2025-07-18 18:36:56,349 - DataCollector - INFO - UNIUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:56,461 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:35:00 até 2025-07-18 18:36:56.461000
+2025-07-18 18:36:56,833 - DataCollector - INFO - AI16ZUSDT: Coletados 2 novos registros. Total: 1018
+2025-07-18 18:36:56,942 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:56.942000
+2025-07-18 18:36:57,299 - DataCollector - INFO - OPUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:36:57,411 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:57.411000
+2025-07-18 18:36:57,767 - DataCollector - INFO - GALAUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:36:57,879 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:57.879000
+2025-07-18 18:36:58,236 - DataCollector - INFO - CRVUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:36:58,343 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:58.343000
+2025-07-18 18:36:58,708 - DataCollector - INFO - POPCATUSDT: Coletados 1 novos registros. Total: 1018
+2025-07-18 18:36:58,816 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:36:00 até 2025-07-18 18:36:58.816000
+2025-07-18 18:36:59,174 - DataCollector - INFO - SPXUSDT: Coletados 1 novos registros. Total: 1017
+2025-07-18 18:36:59,275 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:36:59,276 - DataCollector - INFO - Total de novos registros: 38
+2025-07-18 18:36:59,276 - DataCollector - INFO - Próxima coleta em 47.2 segundos
+2025-07-18 18:37:47,911 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:37:47,927 - DataCollector - INFO - BTCUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,035 - DataCollector - INFO - ETHUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,140 - DataCollector - INFO - ADAUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,243 - DataCollector - INFO - BNBUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,347 - DataCollector - INFO - SOLUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,453 - DataCollector - INFO - XRPUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,557 - DataCollector - INFO - DOGEUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,661 - DataCollector - INFO - TONUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,768 - DataCollector - INFO - TRXUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,872 - DataCollector - INFO - AVAXUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:48,976 - DataCollector - INFO - SUSHIUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,081 - DataCollector - INFO - HMSTRUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,186 - DataCollector - INFO - DEEPUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,290 - DataCollector - INFO - SANDUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,395 - DataCollector - INFO - ORDIUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,497 - DataCollector - INFO - SUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,604 - DataCollector - INFO - UNIUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,708 - DataCollector - INFO - AI16ZUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,812 - DataCollector - INFO - OPUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:49,918 - DataCollector - INFO - GALAUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:50,042 - DataCollector - INFO - CRVUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:50,147 - DataCollector - INFO - POPCATUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:50,251 - DataCollector - INFO - SPXUSDT: Dados já atualizados recentemente
+2025-07-18 18:37:50,355 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:37:50,355 - DataCollector - INFO - Total de novos registros: 0
+2025-07-18 18:37:50,356 - DataCollector - INFO - Próxima coleta em 56.1 segundos
+2025-07-18 18:38:47,853 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:38:47,868 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:47.868000
+2025-07-18 18:38:48,232 - DataCollector - INFO - BTCUSDT: Coletados 2 novos registros. Total: 1021
+2025-07-18 18:38:48,344 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:48.344000
+2025-07-18 18:38:48,713 - DataCollector - INFO - ETHUSDT: Coletados 2 novos registros. Total: 1021
+2025-07-18 18:38:48,824 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:48.824000
+2025-07-18 18:38:49,188 - DataCollector - INFO - ADAUSDT: Coletados 2 novos registros. Total: 1021
+2025-07-18 18:38:49,299 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:49.299000
+2025-07-18 18:38:49,652 - DataCollector - INFO - BNBUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:49,773 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:49.773000
+2025-07-18 18:38:50,130 - DataCollector - INFO - SOLUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:50,242 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:50.242000
+2025-07-18 18:38:50,612 - DataCollector - INFO - XRPUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:50,720 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:50.720000
+2025-07-18 18:38:51,088 - DataCollector - INFO - DOGEUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:51,207 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:51.207000
+2025-07-18 18:38:51,554 - DataCollector - INFO - TONUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:51,675 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:51.675000
+2025-07-18 18:38:52,035 - DataCollector - INFO - TRXUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:52,147 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:52.147000
+2025-07-18 18:38:52,512 - DataCollector - INFO - AVAXUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:52,625 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:52.625000
+2025-07-18 18:38:52,972 - DataCollector - INFO - SUSHIUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:53,088 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:53.088000
+2025-07-18 18:38:53,457 - DataCollector - INFO - HMSTRUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:53,569 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:53.569000
+2025-07-18 18:38:53,931 - DataCollector - INFO - DEEPUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:54,042 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:54.042000
+2025-07-18 18:38:54,407 - DataCollector - INFO - SANDUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:54,519 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:54.519000
+2025-07-18 18:38:54,895 - DataCollector - INFO - ORDIUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:55,006 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:55.006000
+2025-07-18 18:38:55,365 - DataCollector - INFO - SUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:55,476 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:55.476000
+2025-07-18 18:38:55,838 - DataCollector - INFO - UNIUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:55,962 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:55.962000
+2025-07-18 18:38:56,322 - DataCollector - INFO - AI16ZUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:56,438 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:56.438000
+2025-07-18 18:38:56,809 - DataCollector - INFO - OPUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:56,922 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:56.922000
+2025-07-18 18:38:57,294 - DataCollector - INFO - GALAUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:57,412 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:57.412000
+2025-07-18 18:38:57,778 - DataCollector - INFO - CRVUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:57,888 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:57.888000
+2025-07-18 18:38:58,258 - DataCollector - INFO - POPCATUSDT: Coletados 2 novos registros. Total: 1020
+2025-07-18 18:38:58,370 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:37:00 até 2025-07-18 18:38:58.370000
+2025-07-18 18:38:58,726 - DataCollector - INFO - SPXUSDT: Coletados 2 novos registros. Total: 1019
+2025-07-18 18:38:58,835 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:38:58,835 - DataCollector - INFO - Total de novos registros: 46
+2025-07-18 18:38:58,835 - DataCollector - INFO - Próxima coleta em 47.6 segundos
+2025-07-18 18:39:47,840 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:39:47,843 - DataCollector - INFO - BTCUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:47,945 - DataCollector - INFO - ETHUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,050 - DataCollector - INFO - ADAUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,155 - DataCollector - INFO - BNBUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,260 - DataCollector - INFO - SOLUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,362 - DataCollector - INFO - XRPUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,467 - DataCollector - INFO - DOGEUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,572 - DataCollector - INFO - TONUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,675 - DataCollector - INFO - TRXUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,780 - DataCollector - INFO - AVAXUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,883 - DataCollector - INFO - SUSHIUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:48,988 - DataCollector - INFO - HMSTRUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,091 - DataCollector - INFO - DEEPUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,196 - DataCollector - INFO - SANDUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,300 - DataCollector - INFO - ORDIUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,404 - DataCollector - INFO - SUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,509 - DataCollector - INFO - UNIUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,615 - DataCollector - INFO - AI16ZUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,718 - DataCollector - INFO - OPUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,823 - DataCollector - INFO - GALAUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:49,928 - DataCollector - INFO - CRVUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:50,031 - DataCollector - INFO - POPCATUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:50,137 - DataCollector - INFO - SPXUSDT: Dados já atualizados recentemente
+2025-07-18 18:39:50,240 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:39:50,240 - DataCollector - INFO - Total de novos registros: 0
+2025-07-18 18:39:50,240 - DataCollector - INFO - Próxima coleta em 56.2 segundos
+2025-07-18 18:40:47,731 - DataCollector - INFO - Iniciando coleta para 23 símbolos
+2025-07-18 18:40:47,747 - DataCollector - INFO - BTCUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:47.747000
+2025-07-18 18:40:48,130 - DataCollector - INFO - BTCUSDT: Coletados 2 novos registros. Total: 1023
+2025-07-18 18:40:48,245 - DataCollector - INFO - ETHUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:48.245000
+2025-07-18 18:40:48,624 - DataCollector - INFO - ETHUSDT: Coletados 2 novos registros. Total: 1023
+2025-07-18 18:40:48,740 - DataCollector - INFO - ADAUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:48.740000
+2025-07-18 18:40:49,166 - DataCollector - INFO - ADAUSDT: Coletados 2 novos registros. Total: 1023
+2025-07-18 18:40:49,277 - DataCollector - INFO - BNBUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:49.277000
+2025-07-18 18:40:49,712 - DataCollector - INFO - BNBUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:49,828 - DataCollector - INFO - SOLUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:49.828000
+2025-07-18 18:40:50,201 - DataCollector - INFO - SOLUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:50,318 - DataCollector - INFO - XRPUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:50.318000
+2025-07-18 18:40:50,708 - DataCollector - INFO - XRPUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:50,822 - DataCollector - INFO - DOGEUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:50.822000
+2025-07-18 18:40:51,254 - DataCollector - INFO - DOGEUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:51,367 - DataCollector - INFO - TONUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:51.367000
+2025-07-18 18:40:51,847 - DataCollector - INFO - TONUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:51,949 - DataCollector - INFO - TRXUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:51.949000
+2025-07-18 18:40:52,310 - DataCollector - INFO - TRXUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:52,422 - DataCollector - INFO - AVAXUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:52.422000
+2025-07-18 18:40:52,790 - DataCollector - INFO - AVAXUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:52,892 - DataCollector - INFO - SUSHIUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:52.892000
+2025-07-18 18:40:53,286 - DataCollector - INFO - SUSHIUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:53,398 - DataCollector - INFO - HMSTRUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:53.398000
+2025-07-18 18:40:53,779 - DataCollector - INFO - HMSTRUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:53,891 - DataCollector - INFO - DEEPUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:53.891000
+2025-07-18 18:40:54,260 - DataCollector - INFO - DEEPUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:54,372 - DataCollector - INFO - SANDUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:54.372000
+2025-07-18 18:40:54,741 - DataCollector - INFO - SANDUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:54,854 - DataCollector - INFO - ORDIUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:54.854000
+2025-07-18 18:40:55,220 - DataCollector - INFO - ORDIUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:55,331 - DataCollector - INFO - SUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:55.331000
+2025-07-18 18:40:55,683 - DataCollector - INFO - SUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:55,799 - DataCollector - INFO - UNIUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:55.799000
+2025-07-18 18:40:56,161 - DataCollector - INFO - UNIUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:56,273 - DataCollector - INFO - AI16ZUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:56.273000
+2025-07-18 18:40:56,642 - DataCollector - INFO - AI16ZUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:56,754 - DataCollector - INFO - OPUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:56.754000
+2025-07-18 18:40:57,136 - DataCollector - INFO - OPUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:57,248 - DataCollector - INFO - GALAUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:57.248000
+2025-07-18 18:40:57,633 - DataCollector - INFO - GALAUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:57,734 - DataCollector - INFO - CRVUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:57.734000
+2025-07-18 18:40:58,111 - DataCollector - INFO - CRVUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:58,225 - DataCollector - INFO - POPCATUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:58.225000
+2025-07-18 18:40:58,575 - DataCollector - INFO - POPCATUSDT: Coletados 2 novos registros. Total: 1022
+2025-07-18 18:40:58,690 - DataCollector - INFO - SPXUSDT: Coletando dados de 2025-07-18 18:39:00 até 2025-07-18 18:40:58.690000
+2025-07-18 18:40:59,055 - DataCollector - INFO - SPXUSDT: Coletados 2 novos registros. Total: 1021
+2025-07-18 18:40:59,164 - DataCollector - INFO - Coleta finalizada: 23/23 símbolos processados com sucesso
+2025-07-18 18:40:59,164 - DataCollector - INFO - Total de novos registros: 46
+2025-07-18 18:40:59,164 - DataCollector - INFO - Próxima coleta em 47.3 segundos
+2025-07-18 18:41:42,704 - DataCollector - INFO - Coleta interrompida pelo usuário

@@ -1,0 +1,57 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "crypto_collector",
+    "password": "DwbkKxzzrLEI4gUA",
+    "database": "crypto_collector"
+  },
+  "apis": {
+    "bybit": {
+      "name": "Bybit",
+      "base_url": "https://api.bybit.com",
+      "rate_limit": 0.1,
+      "timeout": 30,
+      "max_retries": 3
+    },
+    "binance": {
+      "name": "Binance",
+      "base_url": "https://api.binance.com",
+      "rate_limit": 0.05,
+      "timeout": 30,
+      "max_retries": 3
+    }
+  },
+  "selected_api": "bybit",
+  "tokens": [
+        "BTCUSDT",
+        "ETHUSDT",
+        "ADAUSDT",
+        "BNBUSDT",
+        "SOLUSDT",
+        "XRPUSDT",
+        "DOGEUSDT",
+        "TONUSDT",
+        "TRXUSDT",
+        "AVAXUSDT",
+        "SUSHIUSDT",
+        "HMSTRUSDT",
+        "DEEPUSDT",
+        "SANDUSDT",
+        "ORDIUSDT",
+        "SUSDT",
+        "UNIUSDT",
+        "AI16ZUSDT",
+        "OPUSDT",
+        "GALAUSDT",
+        "CRVUSDT",
+        "POPCATUSDT",
+        "SPXUSDT"
+  ],
+  "collection_interval": 60,
+  "internet_check_interval": 15,
+  "max_connection_retries": 5,
+  "retry_delay": 15,
+  "log_level": "INFO",
+  "log_file": "crypto_collector.log"
+}
