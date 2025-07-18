@@ -5,7 +5,7 @@ Sistema orientado a objetos para coleta automática de dados de candlesticks de 
 ## Características
 
 - ✅ **Orientado a Objetos**: Arquitetura modular e extensível
-- ✅ **Múltiplas APIs**: Suporte para Bybit e Binance
+- ✅ **Múltiplas APIs**: Suporte para Bybit e posterior da gate.io
 - ✅ **Banco MySQL**: Armazenamento com SQLAlchemy
 - ✅ **Prevenção de Duplicatas**: Índices únicos nas tabelas
 - ✅ **Verificação de Conectividade**: Sistema robusto de verificação de internet
