@@ -62,9 +62,9 @@ class DataCollector:
         """Garante que há conectividade com a internet"""
         if not self.network_checker.check_internet_connectivity():
             self.logger.warning("Sem conectividade com a internet. Aguardando...")
-            return self.network_checker.wait_for_internet(
-                check_interval=self.config.internet_check_interval,
-                max_retries=self.config.max_connection_retries
+            return self.network_checker.wait_for_connectivity(
+                max_retries=self.config.max_connection_retries,
+                retry_delay=self.config.internet_check_interval
             )
         return True
     
