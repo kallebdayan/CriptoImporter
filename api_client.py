@@ -79,6 +79,7 @@ class BybitClient(APIClient):
         
         try:
             response = self._make_request('/v5/market/kline', params)
+           # print(f"URL REQUISITADA:'/v5/market/kline' {params}")
             
             if response.get('retCode') != 0:
                 raise Exception(f"Erro da API Bybit: {response.get('retMsg')}")
