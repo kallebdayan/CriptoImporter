@@ -76,27 +76,7 @@ DEFAULT_CONFIG = SystemConfig(
     tokens=[
         "BTCUSDT",
         "ETHUSDT",
-        "ADAUSDT",
-        "BNBUSDT",
-        "SOLUSDT",
-        "XRPUSDT",
-        "DOGEUSDT",
-        "TONUSDT",
-        "TRXUSDT",
-        "AVAXUSDT",
-        "SUSHIUSDT",
-        "HMSTRUSDT",
-        "DEEPUSDT",
-        "SANDUSDT",
-        "ORDIUSDT",
-        "SUSDT",
-        "UNIUSDT",
-        "AI16ZUSDT",
-        "OPUSDT",
-        "GALAUSDT",
-        "CRVUSDT",
-        "POPCATUSDT",
-        "SPXUSDT"
+        "ADAUSDT"
     ],
     
     collection_interval=60,

@@ -200,10 +200,7 @@ class CryptoCollectorApp:
             print("✓ Todos os símbolos removidos")
         
         elif choice == '4':
-            config.tokens = [
-                "BTCUSDT", "ETHUSDT", "ADAUSDT", "BNBUSDT", "SOLUSDT",
-                "XRPUSDT", "DOGEUSDT", "TONUSDT", "TRXUSDT", "AVAXUSDT"
-            ]
+            config.tokens = config.tokens
             print("✓ Lista padrão de símbolos carregada")
     
     def _configure_intervals(self) -> None:

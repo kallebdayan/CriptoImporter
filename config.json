@@ -46,7 +46,10 @@
         "GALAUSDT",
         "CRVUSDT",
         "POPCATUSDT",
-        "SPXUSDT"
+        "SPXUSDT",
+        "MASKUSDT",
+        "AGIUSDT",
+        "BBUSDT"
   ],
   "collection_interval": 60,
   "internet_check_interval": 15,
